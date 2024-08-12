@@ -1,4 +1,4 @@
-# Day 15: Synchronizing Timezone Settings
+# Day 14: Synchronizing Timezone Settings
 
 ## Task
 In the daily standup, it was noted that the timezone settings across the Nautilus Application Servers in the Stratos Datacenter are inconsistent with the local datacenter's timezone, currently set to Atlantic/St_Helena.
